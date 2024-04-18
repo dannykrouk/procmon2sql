@@ -7,7 +7,7 @@ To get started, download the .py and .csv to a directory of your choosing, open 
 
 PRE-REQUISITES
 
-Python 3.x (I don't think the specific release is that important) 
+Python 3.1+ (I don't think the specific release is that important) 
 
 Install this: https://pypi.org/project/procmon-parser/
 Download the .tar.gz and install like this:
